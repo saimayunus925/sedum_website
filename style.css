@@ -1,0 +1,4 @@
+.navbar {
+    list-style-type: none; /* removes bullet points from list in navbar */
+    color: aliceblue;
+}
